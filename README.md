@@ -21,7 +21,7 @@ and they want to be ahead of competition and make more profits
 ## Conclusions
 - Temperature has high impact on cnt variable
 - yr variable also has positive impact on it
-- windspeed seems to have a negative effect on count
+- windspeed seems to have a negative effect on cnt variable
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
